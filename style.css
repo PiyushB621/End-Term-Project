@@ -1,0 +1,36 @@
+body{
+    background-image: url(covid.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+form{
+    text-align: center;
+    font-size:140%; 
+    padding-top: 130px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+#btn{
+    height: 40px;
+    width: 200px;
+    background-color: blue;
+}
+
+div{
+    width:50%;
+    background-color: rgb(255, 235, 205);
+    margin: 20px;
+    padding: 5%;
+    margin: auto;
+}
+
+#res{
+    color: rgb(240, 248, 255);
+    background-image: linear-gradient(to right,rgb(40, 141, 199),black, rgb(12, 24, 95) ,black,rgb(10, 61, 21),black, rgb(5, 36, 65) ,black, rgb(40, 141, 199));
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    text-align: center;
+}
