@@ -23,6 +23,12 @@ form{
     background-color: blue;
 }
 
+label{
+    color: rgb(240, 248, 255);
+    font-size: 20px;
+    font-weight: bold;
+}
+
 div{
     width:50%;
     background-color: rgb(255, 235, 205);
